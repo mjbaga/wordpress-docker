@@ -1,0 +1,5 @@
+docker/docker.env
+src/wordpress
+src/wp-content/plugins/tinymce-advanced
+src/wp-content/plugins/advanced-custom-fields
+src/vendor
