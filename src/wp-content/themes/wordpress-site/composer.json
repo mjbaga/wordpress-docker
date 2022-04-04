@@ -1,0 +1,9 @@
+{
+  "name": "mjbaga/wordpress-site",
+  "description": "Autoloader for WordPress theme",
+  "autoload": {
+    "psr-4": {
+      "SiteThemeComponents\\": "classes/SiteThemeComponents/"
+    }
+  }
+}
